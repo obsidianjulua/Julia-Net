@@ -1,2 +1,1 @@
-# julia-janet
-julia build internet for real
+# personal data server
